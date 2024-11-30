@@ -114,6 +114,19 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
     </div>
 </div>
 
+<div class="custom-box">
+    <img src="docs/images/bitwarden.png" alt="Logo">
+    <div style="flex: 1;">
+        <a href="https://guvendekal.org/#/mesajlasma?id=-signal" class="title">Gizlilik ve Mahremiyet  Mesajlaşma Uygulaması: Signal</a>
+        <p class="description">Muhtemelen güçlü şifrelemeyi basit bir kullanıcı arayüzü ve birçok özellik ile birleştiren en popüler, güvenli özel mesajlaşma uygulamalarından biridir. Dünya genelinde yaygın olarak kullanılmakta ve WhatsApp'a benzer şekilde, anlık mesajlaşma, okuma onayları, medya ekleri desteği ve yüksek kaliteli ses ve video aramaları yapma imkanı sunmaktadır. Çoklu platformda, açık kaynaklı ve tamamen ücretsizdir. Signal, Edward Snowden tarafından önerilmektedir ve çoğu kullanıcı için mükemmel bir çözümdür.</p>
+        <div class="icon-group">
+            <span><i class="fa-brands fa-windows"></i> Windows</span>
+            <span><i class="fa-brands fa-android"></i> Android</span>
+            <span><i class="fa-brands fa-app-store-ios"></i> IOS</span>
+        </div>
+    </div>
+</div>
+
 ## VPN Uygulamaları
 
 <div class="service-container">
@@ -305,6 +318,17 @@ Bireylerin internet ortamında daha güvenli bir deneyim yaşamalarını sağlam
         <img src="docs/images/rclone.png" alt="icon">
         <div class="title">
             <a href="http://guvendekal.org/#/senkronizasyon?id=-rclone" target="_blank" style="color: inherit; text-decoration: none;">Rclone</a>
+        </div>
+    </div>
+</div>
+
+## İletişim (Şifreli Mesajlaşma)
+
+<div class="service-container">
+    <div class="service-box">
+        <img src="docs/images/keepassxc.png" alt="icon">
+        <div class="title">
+            <a href="https://guvendekal.org/#/sifre-yoneticileri?id=-keepassxc" target="_blank" style="color: inherit; text-decoration: none;">Signal</a>
         </div>
     </div>
 </div>
